@@ -2,3 +2,9 @@
 __pycache__/
 .env
 python-practice/
+
+# Local database
+football_ai.db
+
+# Python build/package artifacts
+*.egg-info/
